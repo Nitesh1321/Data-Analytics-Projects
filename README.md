@@ -22,5 +22,6 @@ DAX for measures and calculations.
 
 Interactive visuals and forecasting models.
 
-**Purpose**
+**Purpose:**
+
 These dashboards were created to showcase end‑to‑end analytics skills: preparing data, building models, and designing reports that tell a clear story. They serve as portfolio pieces for demonstrating practical business intelligence capabilities.
