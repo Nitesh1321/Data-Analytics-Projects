@@ -12,9 +12,9 @@ Provides insights into online sales, customer behavior, and product performance.
 Combines historical sales analysis with a 15‑day forecast model. Features regional breakdowns, ship mode comparisons, and predictive charts to support short‑term planning.
 
 **Tools & Techniques**
-Power BI Desktop
 
-Power Query for data cleaning and transformation
+Power BI Desktop.
+Power Query for data cleaning and transformation.
 
 DAX for measures and calculations
 
