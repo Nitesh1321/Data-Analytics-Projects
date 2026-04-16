@@ -1,7 +1,7 @@
 # Data-Analytics-Projects
 This repository contains a set of Power BI dashboards built to explore different business scenarios and demonstrate practical data analytics skills. Each project highlights how raw data can be transformed into clear, interactive visuals that support decision‑making.
 
-#Projects Included:
+**Projects Included:**
 
 **HR Analysis Dashboard**  
 Focuses on workforce metrics such as attrition, employee demographics, and performance trends. Designed to help HR teams monitor and improve employee engagement and retention.
