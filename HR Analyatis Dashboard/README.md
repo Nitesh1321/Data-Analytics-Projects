@@ -1,4 +1,5 @@
 **Description:**
+
 An interactive HR Analytics Dashboard built in Power BI to visualize employee attrition trends, workforce demographics, and job satisfaction insights. It combines key HR metrics such as Employee Count, Attrition Rate, Average Age, Average Salary, and Years of Service with detailed visualizations across gender, education, age groups, salary bands, tenure, job roles, and satisfaction levels.
 
 Through filters and interactive charts, HR teams can quickly identify patterns, understand the drivers of attrition, and make data‑driven decisions to improve retention and strengthen employee engagement strategies.
