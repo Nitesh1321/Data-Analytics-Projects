@@ -3,7 +3,7 @@ An interactive Power BI dashboard developed for SuperStore sales forecasting, fe
 
 
 Purpose:  
-The goal of this project is to help business stakeholders:
+The goal of this project is to help business stakeholders/
 Track historical sales and profit trends
 Forecast sales for the upcoming 15 days
 Identify top‑performing regions, categories, and sub‑categories
