@@ -9,8 +9,11 @@ The goal of this project is to make sales performance easy to understand at a gl
 **Tools Used:**
 
 1.Power BI
+
 2.Excel/CSV datasets
+
 3.Power Query for data cleaning
+
 4.DAX for calculations
 
 **Outcome:**
