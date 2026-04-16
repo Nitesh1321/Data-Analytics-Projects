@@ -7,6 +7,7 @@ It brings together key metrics like Total Sales, Profit, Quantity Sold, and Aver
 The goal of this project is to make sales performance easy to understand at a glance. It helps identify which states and customers drive the most revenue, which product categories perform best, how profits vary month to month, and which payment methods are most popular.
 
 **Tools Used:**
+
 1.Power BI
 2.Excel/CSV datasets
 3.Power Query for data cleaning
