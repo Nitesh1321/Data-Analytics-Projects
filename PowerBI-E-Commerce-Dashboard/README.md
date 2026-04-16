@@ -1,5 +1,6 @@
 **Project Description:**  
 This project is an interactive Power BI dashboard built to analyze e-commerce sales data. It brings together key business metrics like Total Sales, Profit, Quantity Sold, and Average Order Value (AOV) and presents them in a clean, modern interface.
+
 The dashboard includes visualizations for profit by state, monthly profit trends, category-wise sales, top customers, payment modes, and sub-category performance. With filters for quarters and categories, users can explore the data dynamically and uncover meaningful insights.
 
 **Purpose:**
